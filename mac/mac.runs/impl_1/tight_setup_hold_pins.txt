@@ -1,0 +1,12 @@
++====================+===================+==============================================================================================+
+| Launch Setup Clock | Launch Hold Clock | Pin                                                                                          |
++====================+===================+==============================================================================================+
+| clk_fpga_0         | clk_fpga_0        | design_1_i/mac_unit_ip_0/inst/mac_unit_ip_slave_lite_v1_0_S00_AXI_inst/accumulator_reg[29]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/mac_unit_ip_0/inst/mac_unit_ip_slave_lite_v1_0_S00_AXI_inst/accumulator_reg[31]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/mac_unit_ip_0/inst/mac_unit_ip_slave_lite_v1_0_S00_AXI_inst/accumulator_reg[25]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/mac_unit_ip_0/inst/mac_unit_ip_slave_lite_v1_0_S00_AXI_inst/accumulator_reg[30]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/mac_unit_ip_0/inst/mac_unit_ip_slave_lite_v1_0_S00_AXI_inst/accumulator_reg[27]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/mac_unit_ip_0/inst/mac_unit_ip_slave_lite_v1_0_S00_AXI_inst/accumulator_reg[28]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/mac_unit_ip_0/inst/mac_unit_ip_slave_lite_v1_0_S00_AXI_inst/accumulator_reg[26]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/mac_unit_ip_0/inst/mac_unit_ip_slave_lite_v1_0_S00_AXI_inst/accumulator_reg[24]/D |
++--------------------+-------------------+----------------------------------------------------------------------------------------------+
