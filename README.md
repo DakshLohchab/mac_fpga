@@ -1,0 +1,1 @@
+AXI4-Lite Multiply-Accumulate (MAC) Unit FPGA ProjectThis repository contains a complete hardware/software co-design implementation of a custom Multiply-Accumulate (MAC) Unit packaged as an AXI4-Lite peripheral for Xilinx FPGAs. The architecture handles hardware-accelerated MAC operations integrated into a Zynq-7000 processing system block design.  
